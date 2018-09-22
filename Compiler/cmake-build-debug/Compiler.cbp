@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Compiler"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/Dalia Folder/Compiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Compiler">
+				<Option output="D:/Dalia Folder/Compiler/cmake-build-debug/Compiler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Dalia Folder/Compiler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 Compiler"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Compiler/fast">
+				<Option output="D:/Dalia Folder/Compiler/cmake-build-debug/Compiler.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/Dalia Folder/Compiler/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/mingw32"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include/c++/backward"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/../../../../include"/>
+					<Add directory="C:/Program Files (x86)/CodeBlocks/MinGW/bin/../lib/gcc/mingw32/5.1.0/include-fixed"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 Compiler/fast"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/Dalia Folder/Compiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/Dalia Folder/Compiler/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/CODEBL~1/MinGW/bin/mingw32-make.exe -f &quot;D:/Dalia Folder/Compiler/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/Dalia Folder/Compiler/DFAGenerator.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/DFAGenerator.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/Edge.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/Edge.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/FileHandler.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/FileHandler.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/FileWriter.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/FileWriter.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/FirstFollow.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/FirstFollow.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/Graph.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/Graph.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/GraphGenerator.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/GraphGenerator.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/LexicalParser.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/LexicalParser.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/NFAGenerator.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/NFAGenerator.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/Node.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/Node.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/ParserOptmizer.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/ParserOptmizer.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/ParserTreeGenerator.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/ParserTreeGenerator.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/ParsingUtils.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/ParsingUtils.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/StringVectorUtilis.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/StringVectorUtilis.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/SyntaxParser.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/SyntaxParser.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/TableRow.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/TableRow.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/TokenPath.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/TokenPath.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/main.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/parseTable.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/parseTable.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/tokensGenerator.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/tokensGenerator.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/treeHandler.cpp">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/treeHandler.h">
+			<Option target="Compiler"/>
+		</Unit>
+		<Unit filename="D:/Dalia Folder/Compiler/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

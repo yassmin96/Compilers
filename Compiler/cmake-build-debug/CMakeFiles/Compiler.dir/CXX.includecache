@@ -1,0 +1,386 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Dalia Folder/Compiler/DFAGenerator.cpp
+DFAGenerator.h
+D:/Dalia Folder/Compiler/DFAGenerator.h
+
+D:/Dalia Folder/Compiler/DFAGenerator.h
+Node.h
+D:/Dalia Folder/Compiler/Node.h
+vector
+-
+string
+-
+stack
+-
+regex
+-
+iostream
+-
+algorithm
+-
+Edge.h
+D:/Dalia Folder/Compiler/Edge.h
+TokenPath.h
+D:/Dalia Folder/Compiler/TokenPath.h
+LexicalParser.h
+D:/Dalia Folder/Compiler/LexicalParser.h
+ParserTreeGenerator.h
+D:/Dalia Folder/Compiler/ParserTreeGenerator.h
+
+D:/Dalia Folder/Compiler/Edge.cpp
+Edge.h
+D:/Dalia Folder/Compiler/Edge.h
+
+D:/Dalia Folder/Compiler/Edge.h
+iostream
+-
+string
+-
+
+D:/Dalia Folder/Compiler/FileHandler.cpp
+FileHandler.h
+D:/Dalia Folder/Compiler/FileHandler.h
+
+D:/Dalia Folder/Compiler/FileHandler.h
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+cstdio
+-
+regex
+-
+
+D:/Dalia Folder/Compiler/FileWriter.cpp
+FileWriter.h
+D:/Dalia Folder/Compiler/FileWriter.h
+
+D:/Dalia Folder/Compiler/FileWriter.h
+iostream
+-
+fstream
+-
+
+D:/Dalia Folder/Compiler/FirstFollow.cpp
+FirstFollow.h
+D:/Dalia Folder/Compiler/FirstFollow.h
+
+D:/Dalia Folder/Compiler/FirstFollow.h
+iostream
+-
+string
+-
+vector
+-
+map
+-
+parseTable.h
+D:/Dalia Folder/Compiler/parseTable.h
+
+D:/Dalia Folder/Compiler/Graph.cpp
+Graph.h
+D:/Dalia Folder/Compiler/Graph.h
+
+D:/Dalia Folder/Compiler/Graph.h
+vector
+-
+iostream
+-
+string
+-
+Node.h
+D:/Dalia Folder/Compiler/Node.h
+
+D:/Dalia Folder/Compiler/GraphGenerator.cpp
+GraphGenerator.h
+D:/Dalia Folder/Compiler/GraphGenerator.h
+
+D:/Dalia Folder/Compiler/GraphGenerator.h
+vector
+-
+iostream
+-
+string
+-
+Node.h
+D:/Dalia Folder/Compiler/Node.h
+Graph.h
+D:/Dalia Folder/Compiler/Graph.h
+set
+-
+queue
+-
+
+D:/Dalia Folder/Compiler/LexicalParser.cpp
+LexicalParser.h
+D:/Dalia Folder/Compiler/LexicalParser.h
+
+D:/Dalia Folder/Compiler/LexicalParser.h
+string
+-
+stack
+-
+vector
+-
+map
+-
+cstring
+-
+iostream
+-
+regex
+-
+ParsingUtils.h
+D:/Dalia Folder/Compiler/ParsingUtils.h
+
+D:/Dalia Folder/Compiler/NFAGenerator.cpp
+NFAGenerator.h
+D:/Dalia Folder/Compiler/NFAGenerator.h
+
+D:/Dalia Folder/Compiler/NFAGenerator.h
+vector
+-
+iostream
+-
+string
+-
+map
+-
+Node.h
+D:/Dalia Folder/Compiler/Node.h
+GraphGenerator.h
+D:/Dalia Folder/Compiler/GraphGenerator.h
+set
+-
+
+D:/Dalia Folder/Compiler/Node.cpp
+Node.h
+D:/Dalia Folder/Compiler/Node.h
+
+D:/Dalia Folder/Compiler/Node.h
+vector
+-
+iostream
+-
+string
+-
+Edge.h
+D:/Dalia Folder/Compiler/Edge.h
+
+D:/Dalia Folder/Compiler/ParserOptmizer.cpp
+ParserOptmizer.h
+D:/Dalia Folder/Compiler/ParserOptmizer.h
+
+D:/Dalia Folder/Compiler/ParserOptmizer.h
+iostream
+-
+string
+-
+map
+-
+vector
+-
+set
+-
+algorithm
+-
+iterator
+-
+StringVectorUtilis.h
+D:/Dalia Folder/Compiler/StringVectorUtilis.h
+
+D:/Dalia Folder/Compiler/ParserTreeGenerator.cpp
+ParserTreeGenerator.h
+D:/Dalia Folder/Compiler/ParserTreeGenerator.h
+
+D:/Dalia Folder/Compiler/ParserTreeGenerator.h
+iostream
+-
+string.h
+-
+vector
+-
+set
+-
+parseTable.h
+D:/Dalia Folder/Compiler/parseTable.h
+treeHandler.h
+D:/Dalia Folder/Compiler/treeHandler.h
+
+D:/Dalia Folder/Compiler/ParsingUtils.cpp
+ParsingUtils.h
+D:/Dalia Folder/Compiler/ParsingUtils.h
+
+D:/Dalia Folder/Compiler/ParsingUtils.h
+string
+-
+stack
+-
+vector
+-
+map
+-
+cstring
+-
+iostream
+-
+regex
+-
+
+D:/Dalia Folder/Compiler/StringVectorUtilis.cpp
+StringVectorUtilis.h
+D:/Dalia Folder/Compiler/StringVectorUtilis.h
+
+D:/Dalia Folder/Compiler/StringVectorUtilis.h
+iostream
+-
+string
+-
+map
+-
+vector
+-
+set
+-
+algorithm
+-
+iterator
+-
+
+D:/Dalia Folder/Compiler/SyntaxParser.cpp
+SyntaxParser.h
+D:/Dalia Folder/Compiler/SyntaxParser.h
+
+D:/Dalia Folder/Compiler/SyntaxParser.h
+string
+-
+vector
+-
+map
+-
+cstring
+-
+iostream
+-
+regex
+-
+set
+-
+ParsingUtils.h
+D:/Dalia Folder/Compiler/ParsingUtils.h
+
+D:/Dalia Folder/Compiler/TableRow.cpp
+TableRow.h
+D:/Dalia Folder/Compiler/TableRow.h
+
+D:/Dalia Folder/Compiler/TableRow.h
+string
+-
+vector
+-
+Node.h
+D:/Dalia Folder/Compiler/Node.h
+map
+-
+LexicalParser.h
+D:/Dalia Folder/Compiler/LexicalParser.h
+
+D:/Dalia Folder/Compiler/TokenPath.cpp
+TokenPath.h
+D:/Dalia Folder/Compiler/TokenPath.h
+
+D:/Dalia Folder/Compiler/TokenPath.h
+TableRow.h
+D:/Dalia Folder/Compiler/TableRow.h
+
+D:/Dalia Folder/Compiler/TokensGenerator.h
+vector
+-
+string
+-
+fstream
+-
+iostream
+-
+DFAGenerator.h
+D:/Dalia Folder/Compiler/DFAGenerator.h
+
+D:/Dalia Folder/Compiler/main.cpp
+iostream
+-
+NFAGenerator.h
+D:/Dalia Folder/Compiler/NFAGenerator.h
+FileHandler.h
+D:/Dalia Folder/Compiler/FileHandler.h
+LexicalParser.h
+D:/Dalia Folder/Compiler/LexicalParser.h
+DFAGenerator.h
+D:/Dalia Folder/Compiler/DFAGenerator.h
+SyntaxParser.h
+D:/Dalia Folder/Compiler/SyntaxParser.h
+ParserOptmizer.h
+D:/Dalia Folder/Compiler/ParserOptmizer.h
+FirstFollow.h
+D:/Dalia Folder/Compiler/FirstFollow.h
+ParserTreeGenerator.h
+D:/Dalia Folder/Compiler/ParserTreeGenerator.h
+tokensGenerator.h
+D:/Dalia Folder/Compiler/tokensGenerator.h
+
+D:/Dalia Folder/Compiler/parseTable.cpp
+parseTable.h
+D:/Dalia Folder/Compiler/parseTable.h
+
+D:/Dalia Folder/Compiler/parseTable.h
+iostream
+-
+string
+-
+map
+-
+vector
+-
+
+D:/Dalia Folder/Compiler/tokensGenerator.cpp
+TokensGenerator.h
+D:/Dalia Folder/Compiler/TokensGenerator.h
+
+D:/Dalia Folder/Compiler/tokensGenerator.h
+vector
+-
+string
+-
+fstream
+-
+iostream
+-
+DFAGenerator.h
+D:/Dalia Folder/Compiler/DFAGenerator.h
+
+D:/Dalia Folder/Compiler/treeHandler.cpp
+treeHandler.h
+D:/Dalia Folder/Compiler/treeHandler.h
+
+D:/Dalia Folder/Compiler/treeHandler.h
+iostream
+-
+vector
+-
+iterator
+-
+sstream
+-
+FileWriter.h
+D:/Dalia Folder/Compiler/FileWriter.h
+
